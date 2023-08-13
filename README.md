@@ -1,4 +1,4 @@
-#Alacritty Config
+# Alacritty Config
 ## What is rickydodd-config?
 rickydodd-config keeps my personal configuration files and exposes them publicly for anybody that may benefit from using them.
 
